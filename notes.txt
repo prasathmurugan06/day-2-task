@@ -1,0 +1,26 @@
+Document window:
+
+A document word aw is a section of the Screen used to display the contents of a document file on a GUI operating system 
+
+The Document window is the area where all pages are created and shapes can be positioned.
+
+During both the editing and play modes, the Document Window consists of two distinct panels vertically aligned.
+
+With the upper large panel being the area for the currently displayed page.
+
+document window it used for typing,editing,formatting,drawing that text and graphics
+
+the smaller window which is inside Application window it called the Document window 
+
+
+Ex = word processor program.
+
+Application windows
+
+The rectangular-shaped viewing area on screen that you are working. in In Gul the Boundaries of window.can Bo easily expanded or contracted.
+
+In a graphical user interface (GUI).
+
+The boundaries of the window can be easily expanded or contracted.
+
+the larger window it called the Application window 
